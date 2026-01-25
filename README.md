@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hey 👋 I'm Martim
 
-<!--
-**mq3z7i/mq3z7i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Programmer | 🎮 Game Dev | 💡 Creative Mind
 
-Here are some ideas to get you started:
+## 🧠 About me
+- 💻 I like building cool stuff
+- 🎯 Always learning new things
+- 🇵🇹 From Portugal
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+- Lua
+- JavaScript
+- Swift
+
+## 📫 Contact
+- Discord: [@Mq3z7i](https://discord.com/users/1186765916558598154)
+- X (formerly Twitter): [@Mq3z7i](https://x.com/mq3z7i) 
+- E-mail: contact@mq3z7i.com
