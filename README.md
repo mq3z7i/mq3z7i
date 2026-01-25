@@ -1,4 +1,4 @@
-# Hey 👋 I'm Martim
+# 👋 Hey, I'm Martim :)
 
 🚀 Programmer | 🎮 Game Dev | 💡 Creative Mind
 
