@@ -12,7 +12,7 @@
 - JavaScript
 - Swift
 
-## My portfolio ℹ️
+## ℹ️ My portfolio
 - https://mq3z7i.com
 
 ## 📫 Contact
