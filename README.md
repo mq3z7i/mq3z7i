@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Martim :)
 
-🚀 Programmer | 🎮 Game Dev | 💡 Creative Mind
+🚀 Programmer | 🎮 Game Dev
 
 ## 🧠 About me
 - 💻 I like building cool stuff
