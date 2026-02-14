@@ -1,11 +1,11 @@
 # 👋 Hey, I'm Martim :)
 
-🚀 Programmer | 🎮 Game Dev
+🚀 Programmer & Game Dev
 
 ## 🧠 About me
 - 💻 I like building cool stuff
-- 🎯 Always learning new things
-- 🇵🇹 From Portugal
+- 🎯 Like to learn new things
+- 🇵🇹 I'm from Portugal
 
 ## 🛠️ Tech Stack
 - Lua
