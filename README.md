@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hey, I'm Martim!
 
-<!--
-**mq3z7i/mq3z7i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎮 Game Dev & Programmer who loves building cool stuff
 
-Here are some ideas to get you started:
+## 📁 About me
+- I create games, websites, and much more
+- Always looking for new skills to learn
+- I founded [Fox Jet Studios](https://foxjetstudios.com), a game development studio, check out our website!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ☄️ Portfolio
+- [Martim's Portfolio](https://martimm.dev)
+
+## 💬 Contact
+- [Discord](https://discord.com/users/1186765916558598154)
+- [X (formerly Twitter)](https://x.com/mq3z7i)
+- [Email](contact@mq3z7i.com)
