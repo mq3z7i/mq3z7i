@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Martim!
-I'm a game developer and scripter
+I'm a game developer and scripter on Roblox
 
 ## 📁 About me
 - I create games, websites, and much more
