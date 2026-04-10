@@ -1,6 +1,5 @@
 # 👋 Hey, I'm Martim!
-
-🎮 Game Dev & Programmer who loves building cool stuff
+I'm a game developer and scripter
 
 ## 📁 About me
 - I create games, websites, and much more
