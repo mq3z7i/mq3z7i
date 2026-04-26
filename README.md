@@ -7,7 +7,7 @@ I'm a game developer and scripter on Roblox
 - I founded [Fox Jet Studios](https://foxjetstudios.com), a game development studio, check out our website!
 
 ## ☄️ Portfolio
-- [Martim's Portfolio](https://martimm.dev)
+- [My Portfolio](https://martimm.dev)
 
 ## 💬 Contact
 - [Discord](https://discord.com/users/1186765916558598154)
