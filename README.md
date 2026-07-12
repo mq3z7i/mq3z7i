@@ -12,4 +12,4 @@ I'm a game developer and scripter on Roblox
 ## 💬 Contact
 - [Discord](https://discord.com/users/1186765916558598154)
 - [X (formerly Twitter)](https://x.com/mq3z7i)
-- [Email](contact@mq3z7i.com)
+- [Email](mailto:contact@mq3z7i.com)
